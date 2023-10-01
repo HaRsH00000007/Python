@@ -1,0 +1,1 @@
+#Write a programme to find out whether given username contains less than 10 characters or not.
